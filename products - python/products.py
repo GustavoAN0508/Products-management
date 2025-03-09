@@ -6,7 +6,7 @@ class product:
     def csv() -> None:
         for b in range(0, len(prod), 1): 
             with open("test.csv", "w") as test:
-                test.write(prod[b])
+                test.write(f"{prod[b][0]},{prod[b][1]},{prod[b][2]}\n")
             
     
 class inventory(product):
