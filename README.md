@@ -1,6 +1,6 @@
 <strong>Product Management</strong>
 
-Product Management is a simple Python-based system for managing products. It allows you to add, remove, modify, and view products in an inventory, as well as export the data to a CSV file.
+Product Management is a simple Python-based system for managing products in portuguese. It allows you to add, remove, modify, and view products in an inventory, as well as export the data to a CSV file.
 Features
 
     Add products: Insert new products with name, price, and quantity.
